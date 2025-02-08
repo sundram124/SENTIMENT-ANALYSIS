@@ -108,3 +108,10 @@ Open `Sentiment_Analysis.ipynb` and execute the steps.
 ## Conclusion
 This project successfully demonstrates how **Natural Language Processing (NLP) techniques** can be applied to **sentiment analysis** in textual data. By leveraging both **lexicon-based methods** and **machine learning algorithms**, we can effectively classify text into positive, negative, or neutral sentiments. The insights derived from this analysis can be useful for businesses, marketers, and analysts in understanding customer opinions and improving decision-making processes. The structured **Jupyter Notebook** ensures ease of use, reproducibility, and further enhancements for future research.
 
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/52534a85-72eb-4416-97a1-6081bcdabbbe)
+![Image](https://github.com/user-attachments/assets/b843ca28-65c5-4644-85dd-f39b7c47f6a9)
+![Image](https://github.com/user-attachments/assets/1d7c7c55-c293-4751-bbe2-bba6d4e2a0d6)
+![Image](https://github.com/user-attachments/assets/6975734d-e14d-433f-b007-7a711a2f010a)
